@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Enirose/Testing-with-jest#readme",
   "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
     "jest": "^29.2.0"
   }
 }
