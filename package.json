@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test-unit",
-    "test-unit": "jest"
+    "test": "npm run test-e2e",
+    "test-e2e": "cypress open"
   },
   "repository": {
     "type": "git",
